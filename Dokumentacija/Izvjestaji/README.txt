@@ -1,0 +1,1 @@
+U ovom folderu se nalaze mali sedmični izvještaji kao i planovi iteracija i procjene iteracija
