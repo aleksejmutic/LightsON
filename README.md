@@ -26,8 +26,8 @@ Here is an example of how the editor works.
 
 ---
 
-### Clone the repository
-
+### Getting started
+-  Clone the repository
 ```bash
 git clone https://github.com/aleksejmutic/LightsON.git
 cd LightsON
