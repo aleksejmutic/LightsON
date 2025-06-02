@@ -5,7 +5,7 @@ This project was developed as part of the Software Design course during the 4th 
 
 ---
 
-##  Demo
+#  Demo
 
 Here is an example of how the editor works. 
 
