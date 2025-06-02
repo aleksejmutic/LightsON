@@ -25,6 +25,17 @@ Here is an example of how the editor works. As shown the canvas ensures proper d
 
 ---
 
+##  Tools and Technologies
+
+| Tool | Purpose |
+|------|---------|
+| **SAP PowerDesigner** | UML modeling (use case, class diagrams, etc.) |
+| **Rational Unified Process (RUP)** | Structured development methodology |
+| **Java Swing (planned)** | Planned GUI framework |
+| **Git/GitHub** | Version control and collaboration |
+
+---
+
 ##  Features
 
 -  Add electrical components: Junction Box, Fuse, Socket, Switch, Consumer
