@@ -1,12 +1,13 @@
 # ⚡ LightsON
 
-LightsON is a graphical editor tool for creating and editing electrical circuit diagrams. It allows users to place elements like junction boxes, fuses, sockets, and consumers on a canvas, and connect them with smartly routed wires. The diagrams can be saved, imported and exported. 
+LightsON is a graphical editor tool for creating and editing electrical circuit diagrams, developed in Java Swing. It allows users to place elements like junction boxes, fuses, sockets, and consumers on a canvas, and connect them with smartly routed wires. The diagrams can be saved, imported and exported.
+This project was developed as part of the Software Design course during the 4th year at the Faculty of Electrical Engineering in East Sarajevo.
 
 ---
 
 ## 🖼️ Demo
 
-Here is an example of how the editor works.
+Here is an example of how the editor works. 
 
 ![LightsON Demo](https://i.imgur.com/fzejEQU.gif)
 
