@@ -8,7 +8,7 @@ LightsON is a graphical editor tool for creating and editing electrical circuit 
 
 Here is an example of how the editor works.
 
-![LightsON Demo](https://i.imgur.com/ABC123.gif)
+![LightsON Demo](https://i.imgur.com/fzejEQU.gif)
 
 ---
 
