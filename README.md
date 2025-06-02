@@ -31,10 +31,9 @@ Here is an example of how the editor works. As shown the canvas ensures proper d
 -  Connect elements with auto-routed, orthogonal wires
 -  Smart A* pathfinding to avoid overlapping other components
 -  Snap-to-grid drawing for precise alignment
--  Move and rotate elements, with wires updating dynamically
+-  Move elements, with wires updating dynamically
 -  Save/load diagrams as JSON
--  Right-click context menus for extra options
--  Scrollable tabbed canvas for multi-diagram workspaces
+-  Customization of the diagram view
 
 ---
 
