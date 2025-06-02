@@ -1,4 +1,4 @@
-#  LightsON
+#  LightsON (Graphical Electrical Circuits Editor)
 
 LightsON is a graphical editor tool for creating and editing electrical circuit diagrams, developed in Java Swing. It allows users to place elements like junction boxes, fuses, sockets, and consumers on a canvas, and connect them with smartly routed wires. The diagrams can be saved, imported and exported.
 This project was developed as part of the Software Design course during the 4th year at the Faculty of Electrical Engineering in East Sarajevo.
@@ -7,7 +7,7 @@ This project was developed as part of the Software Design course during the 4th 
 
 #  How LightsON was made
 
-The first course of action while developing the application was ensuring proper documentation using RUP(Rational Unified Process) templates, following using SAP Power Designer for proper modeling using UML. After that the process of writting the implementation and coding began. 
+The first course of action while developing the application was ensuring proper documentation using RUP (Rational Unified Process) templates, following using SAP Power Designer for proper modeling using UML. After that the process of writting the implementation and coding began. 
 
 ---
 
