@@ -5,12 +5,6 @@ This project was developed as part of the Software Design course during the 4th 
 
 ---
 
-#  How LightsON was made
-
-The first course of action while developing the application was ensuring proper documentation using RUP (Rational Unified Process) templates, following using SAP Power Designer for proper modeling using UML. After that the process of writting the implementation and coding began. 
-
----
-
 #  What I learned
 
 During the development of the application, I gained valuable experience in the proper design of software and the structured process of developing a fully functional application. I explored various software design principles and architectural patterns, including MVC, MVVM, and MVP, which helped me understand how to organize and scale complex systems effectively. Additionally, I learned the importance of testing in the development lifecycle — how it ensures the correctness, reliability, and maintainability of the software, and serves as a safeguard against regressions during future changes. 
@@ -22,6 +16,12 @@ During the development of the application, I gained valuable experience in the p
 Here is an example of how the editor works. As shown the canvas ensures proper drawing of elements as well as changing their position on the diagram. You can also customize the grid, zoom in or zoom out of the view of the diagram. 
 
 ![LightsON Demo](https://i.imgur.com/fzejEQU.gif)
+
+---
+
+#  How LightsON was made
+
+The first course of action while developing the application was ensuring proper documentation using RUP (Rational Unified Process) templates, following using SAP Power Designer for proper modeling using UML. After that the process of writting the implementation and coding began. 
 
 ---
 
